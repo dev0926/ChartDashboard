@@ -53,3 +53,14 @@ For 4 different teams' performance over 3 seasons from "2015-2016" to "2017-2018
 
 - Shared Data using React Context API.
 - Regenerate Data from teams and seasons.
+- Trigger Data Regeneration by clicking chart items.
+
+### Fourth, User Friendly and Responsiveness using Chart.js and React-Chartjs-2
+
+- Using Border, Padding and Flex to show charts in a structured way by using TailwindCSS utility classes.
+- Using 'vw' and 'vh' for chart-container elements to make charts responsive regardless of screen sizes.
+
+### Fifth, Deploy to Vercel
+
+- Create a new repo and upload source to that repo.
+- Connect that repo to Vercel
